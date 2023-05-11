@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /**
- * @read_textfile: Read the file print out to STDOUT.
+ * Description: The program reads from a file and counts letters
+ * read_textfile: Read the file print out to STDOUT.
  * @filename: the file being read.
  * @letters: letters to be read.
  * Return: fread - the number of bytes read and outputted.
