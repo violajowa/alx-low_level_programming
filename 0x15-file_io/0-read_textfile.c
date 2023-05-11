@@ -1,8 +1,8 @@
-#include <stdlib.h>
 #include "main.h"
+#include <stdlib.h>
 
 /**
- * read_textfile: Read the file print out to STDOUT.
+ * @read_textfile: Read the file print out to STDOUT.
  * @filename: the file being read.
  * @letters: letters to be read.
  * Return: fread - the number of bytes read and outputted.
